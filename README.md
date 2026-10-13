@@ -12,3 +12,7 @@
 3. **Lab Sheet 3:** SQL Functions (Number, Aggregate, Character, Conversion, Date)
 4. **Lab Sheet 4:** SQL Operators (Arithmetic, Logical, Comparison, Special, Set)
 5. **Lab Sheet 5:** SQL Joins (INNER, LEFT, RIGHT, FULL OUTER, CROSS, NATURAL, SELF)
+   ---
+
+## HackerRank Profile
+- **Profile Link:** https://www.hackerrank.com/profile/vinod952077
