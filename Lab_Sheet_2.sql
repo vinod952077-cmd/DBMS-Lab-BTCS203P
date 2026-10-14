@@ -1,7 +1,4 @@
--- ========================================================
--- Lab Sheet 2: DML Commands - INSERT, UPDATE and DELETE
--- Database: MySQL
--- ========================================================
+
 
 USE CollegeDB;
 
